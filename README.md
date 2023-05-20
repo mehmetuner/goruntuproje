@@ -24,3 +24,6 @@ Gerçek zamanlı bir video akışında sürücünün uykulu olduğunu otomatik o
 Her göz, gözün sol köşesinden başlayan (sanki kişiye bakıyormuşsunuz gibi) ve ardından göz çevresinde saat yönünde ilerleyen 6 (x, y) koordinatıyla temsil edilir.
 
 Eye Thresh hold oranı 0.25'ten küçükse ve calculate_blink_duration > Blink_Duration'den büyükse uyarı oluşturur.
+
+
+<img src="https://github.com/mehmetuner/goruntuproje/blob/main/fotograflar/03-driver-drowsiness-detection-EAR-points.png" alt="alt text" width="320" height="180">
