@@ -27,3 +27,4 @@ Eye Thresh hold oranı 0.25'ten küçükse ve calculate_blink_duration > Blink_D
 
 
 <img src="https://github.com/mehmetuner/goruntuproje/blob/main/fotograflar/03-driver-drowsiness-detection-EAR-points.png" alt="alt text" width="320" height="180">
+https://github.com/mehmetuner/goruntuproje/blob/main/fotograflar/eye3.jpg
