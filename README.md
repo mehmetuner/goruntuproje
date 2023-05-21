@@ -11,11 +11,11 @@ Python
 ## Dependencies
 1.import cv2 <br>
 2.import dlib <br>
-3.import numpy as np <br>
-4.from scipy.spatial import distance as dist <br>
-5.import time <br>
-6.import pygame <br>
-7.import threading
+3.from scipy.spatial import distance as dist <br>
+4.import time <br>
+5.import pygame <br>
+6.import threading <br>
+7.from imutils import face_utils
 
 ### Tanım 📌
 Gerçek zamanlı bir video akışında sürücünün uykulu olduğunu otomatik olarak algılayabilen ve ardından sürücü uykulu görünüyorsa alarm çalabilen bir bilgisayar görüş sistemi.
