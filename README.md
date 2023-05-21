@@ -1,4 +1,5 @@
 ### Uykulu/Uykusuz Tespiti OpenCV&Python 😴 🚫 🚗 
+
 ##
 Bu kod araba süren bir kişinin uykulu/uykusuz tespitini yapıyor.
 ### Neden kullanılır ? 🎯
@@ -34,3 +35,8 @@ Eye Thresh hold oranı 0.25'ten küçükse ve calculate_blink_duration > Blink_D
 <img src="https://github.com/mehmetuner/goruntuproje/blob/main/fotograflar/eye3.jpg" alt="alt text" width="320" height="180">
 
 ### Sonuç
+
+
+
+
+### Mehmet Üner Aysel İrem Nur Dal
